@@ -1,0 +1,14 @@
+# Magento generated files
+var/
+pub/static/
+generated/
+vendor/
+node_modules/
+
+# Docker volumes or logs (if any)
+docker-data/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
