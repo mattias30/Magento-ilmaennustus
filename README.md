@@ -9,7 +9,7 @@ Juhised:
     localhostForwarding=true # Usually default, but good to have
     
   1. Luua uus kaust ja siseneda sellesse.
-  2. Terminalis käivitada kood: curl -s https://raw.githubusercontent.com/mattias30//Magento-ilmaennustus/master/lib/template | bash
+  2. Terminalis käivitada kood: curl -s https://raw.githubusercontent.com/mattias30/Magento-ilmaennustus/master/lib/template | bash
   3. Käivitada: bin/download community 2.4.7-p5
   4. Käivitada: bin/setup magento.test
   5. veebibrauseris liikuda lehele: https://magento.test
